@@ -1,0 +1,11 @@
+*.log
+*.env
+*.bak
+
+# node_modules should not be checked in, can use the command "npm install"
+# to rebuild this folder
+node_modules
+
+# My data files are .json files, so exclude all of those except package.json
+*.json
+!package.json

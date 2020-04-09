@@ -1,0 +1,31 @@
+{
+  "name": "kummer-pi-v2",
+  "version": "2.0.0",
+  "description": "My collection of JavaScript scripts to run on my Raspberry Pi",
+  "main": "kummer-utils.js",
+  "dependencies": {
+    "ical": "^0.5.0",
+    "moment": "^2.17.1",
+    "node-7z": "^0.4.0",
+    "node-env-configuration": "^1.0.3",
+    "node-fetch": "^1.6.3",
+    "rrule": "^2.2.0",
+    "string-format": "^0.5.0",
+    "winston": "^2.3.0"
+  },
+  "devDependencies": {},
+  "author": "Brian E Kummer",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianekummer/kummer-pi-v2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brianekummer/kummer-pi-v2/issues"
+  },
+  "homepage": "https://github.com/brianekummer/kummer-pi-v2#readme",
+  "keywords": []
+}
